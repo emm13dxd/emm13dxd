@@ -1,7 +1,7 @@
 - Full-Stack Developer | Crafting Scalable & Elegant Solutions
 - 👀 I’m interested in coding, programming, AI and web development. (Basically everything IT)
 - 🌱 Building: Modern web apps that blend performance with pixel-perfect design. Passionate about open-source contributions and automating life with code.
-- 💞️ ✨ Current Obsession: Optimizing serverless architectures
+- 💞️ ✨ Current Obsession: Tweaking with AI-powered APIs with FastAPI and Node.js 
 - ⚡ Fun fact: I turn caffeine into clean, maintainable code
 - Backend: RESTful APIs, Express.js, MongoDB
 - Tools: Git, Docker, CI/CD, JWT
